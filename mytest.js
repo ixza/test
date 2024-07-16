@@ -1,5 +1,7 @@
-script.js application/javascript
+mytest.js text/javascript
 (function() {
-    alert("mytest.js");
+    console.info(`[uBO] log-url: ${document.location.href}`);
+    alert("test")
+    console.log("dddd");
 })();
-console.log("mytest.js");
+
