@@ -1,3 +1,4 @@
+script.js application/javascript
 (function() {
     alert("mytest.js");
 })();
