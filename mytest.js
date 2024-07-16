@@ -1,4 +1,3 @@
-mytest.js text/javascript
 (function() {
     alert("mytest.js");
 })();
